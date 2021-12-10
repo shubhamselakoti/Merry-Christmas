@@ -32,7 +32,7 @@ $(window).on('load', function() { // makes sure the whole site is loaded
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("DEC 10, 2021 21:14:01").getTime();
+var countDownDate = new Date("DEC 25, 2021 00:00:01").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
