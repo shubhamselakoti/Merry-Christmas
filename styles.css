@@ -180,9 +180,9 @@ body
 
 #days, #mins, #hours, #secs
 {
-    font-family: 'digital', sans-serif;
+    font-family: '', cursive;
     font-size: 50px;
-    color: black;
+    color: white;
 }
 
 
