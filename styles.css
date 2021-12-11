@@ -364,13 +364,14 @@ body
 
 .credits
 {
+    padding-top: 2%;
     position: absolute;
     color: rgb(35, 87, 87);
     display: inline-block;
     bottom: 5%;
     left: 42%;
     font-size: 15px;
-    transition: 2s ease-in-out;
+    transition: 1s ease-in-out;
 }
 
 
