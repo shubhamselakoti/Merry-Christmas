@@ -528,7 +528,7 @@ a
       display: none;
   }
 
-  @media(max-width:1050px)
+/*   @media(max-width:1050px)
   {
       .pg1, .pg2, .pg3, .pg4
       {
@@ -539,4 +539,4 @@ a
           display: block;
           font-size: 50px;
       }
-  }
+  } */
