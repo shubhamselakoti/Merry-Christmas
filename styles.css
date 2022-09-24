@@ -527,16 +527,3 @@ a
   {
       display: none;
   }
-
-/*   @media(max-width:1050px)
-  {
-      .pg1, .pg2, .pg3, .pg4
-      {
-          display: none;
-      }
-      .alert
-      {
-          display: block;
-          font-size: 50px;
-      }
-  } */
